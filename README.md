@@ -51,7 +51,7 @@ In airline ticket booking system project, each user have his own account through
 ### Built With
 
 - Backend: [C#]
-- Frontend: [WindowsForm]
+- Frontend: [WindowsForm Application]
 - Database: [SQL]
 
 <!-- GETTING STARTED -->
