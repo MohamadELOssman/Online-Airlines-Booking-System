@@ -2,17 +2,17 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Post Book</h3>
+  <h2 align="center">Online Airlines Booking System</h2>
 
   <p align="center">
-    A simple Instagram style web application that supports posting to a main feed
+    A windows form application that manages all functions of an Airlines Booking System
     <br />
-    <a href="https://github.com/ibrahimnasri24/Post-Book"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/MohamadELOssman/Online-Airlines-Booking-System"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ibrahimnasri24/Post-Book/issues">Report Bug</a>
+    <a href="https://github.com/MohamadELOssman/Online-Airlines-Booking-System/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ibrahimnasri24/Post-Book/issues">Request Feature</a>
+    <a href="https://github.com/MohamadELOssman/Online-Airlines-Booking-System/issues">Request Feature</a>
   </p>
 </p>
 
@@ -47,14 +47,13 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-I am learning how to design a restfull api using nodeJS, and this application represents the fruits of these efforts.<br>
-I focused on writing the node server. Whereas the react one is coppied from academind since the purpose of this project is designing the api, database and connecting it to the frontend react server.
+In airline ticket booking system project, each user have his own account through which he can book, modify or cancel reservation online and even know the result of PCR test done in the arrived city. Moreover , the project provides ability to monitor the upcoming flights and their arriving time.
 
 ### Built With
 
-- Backend: [Node](https://nodejs.org/en/) - [Express](https://expressjs.com/)
-- Frontend: [React](https://reactjs.org/)
-- Database: [MongoDB](https://www.mongodb.com/)
+- Backend: [C#]
+- Frontend: [WindowsForm]
+- Database: [SQL]
 
 <!-- GETTING STARTED -->
 
@@ -64,28 +63,28 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-- You should have node and npm installed and ready to go on your computer.
+- You should have Visual Studio installed and ready to go on your computer.
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ibrahimnasri24/Post-Book.git
+   git clone https://github.com/MohamadELOssman/Online-Airlines-Booking-System.git
    ```
-2. Install NPM packages
+2. Install Guna UI Framework packages
    ```sh
-   npm install
+   https://gunaui.com/
+   ```
+3. Setup SQL Database
+   ```sh
+   Execute the "Online Airlines Booking System - Entire SQL Query" SQL query
    ```
 
 <!-- USAGE EXAMPLES -->
 
 ## Usage
 
-Simply run
-
-```sh
-   npm start
-```
+Run the "WindowsFormsApp2.sln" file in Visual Studio 
 
 <!-- CONTRIBUTING -->
 
@@ -109,16 +108,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Ibrahim Nasri - ibrahimnasri24@gmail.com
+Mohamad EL OSMAN - mohamadelossman@gmail.com
 
-Project Link: [https://github.com/ibrahimnasri24/Post-Book](https://github.com/ibrahimnasri24/Post-Book)
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## Acknowledgements
-
-- [Academind](https://academind.com/)
-- [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+Project Link: [https://github.com/MohamadELOssman/Online-Airlines-Booking-System](https://github.com/MohamadELOssman/Online-Airlines-Booking-System)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
