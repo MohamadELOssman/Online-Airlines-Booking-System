@@ -46,7 +46,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-In airline ticket booking system project, each user have his own account through which he can book, modify or cancel reservation online and even know the result of PCR test done in the arrived city. Moreover , the project provides ability to monitor the upcoming flights and their arriving time.
+In the airline ticket booking system project, each user have his own account through which he can book, modify or cancel reservation online and even know the result of PCR test done in the arrived city. Moreover , the project provides ability to monitor the upcoming flights and their arriving time.
 
 ### Built With
 
